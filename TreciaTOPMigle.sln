@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreciaTOPMigle", "TreciaTOPMigle\TreciaTOPMigle.csproj", "{19CA5D62-24C5-44ED-90EC-3FF2126B3415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalloonGame", "BalloonGame\BalloonGame.csproj", "{2074F531-5325-41DB-8096-E160E113E88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19CA5D62-24C5-44ED-90EC-3FF2126B3415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CA5D62-24C5-44ED-90EC-3FF2126B3415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CA5D62-24C5-44ED-90EC-3FF2126B3415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CA5D62-24C5-44ED-90EC-3FF2126B3415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2074F531-5325-41DB-8096-E160E113E88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2074F531-5325-41DB-8096-E160E113E88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2074F531-5325-41DB-8096-E160E113E88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2074F531-5325-41DB-8096-E160E113E88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://grupiokai.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TreciaTOPMigle\\TreciaTOPMigle.csproj
+		SccProjectName1 = TreciaTOPMigle
+		SccLocalPath1 = TreciaTOPMigle
+		SccProjectUniqueName2 = BalloonGame\\BalloonGame.csproj
+		SccProjectName2 = BalloonGame
+		SccLocalPath2 = BalloonGame
+	EndGlobalSection
+EndGlobal

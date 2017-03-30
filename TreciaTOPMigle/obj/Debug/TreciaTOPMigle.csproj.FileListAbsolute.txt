@@ -1,0 +1,10 @@
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\bin\Debug\TreciaTOPMigle.exe.config
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\bin\Debug\TreciaTOPMigle.exe
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\bin\Debug\TreciaTOPMigle.pdb
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\bin\Debug\EntityFramework.dll
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\bin\Debug\EntityFramework.xml
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\obj\Debug\TreciaTOPMigle.csprojResolveAssemblyReference.cache
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\obj\Debug\TreciaTOPMigle.exe
+C:\Users\Migle\Documents\TOP\MyFirstProject\TreciaTOPMigle\TreciaTOPMigle\obj\Debug\TreciaTOPMigle.pdb
